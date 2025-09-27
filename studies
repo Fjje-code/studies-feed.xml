@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Free Speech Studies — Western Europe</title>
+    <link>https://github.com/Fjje-code/studies-feed</link>
+    <description>Collection of empirical studies and reports on free speech decline in Western Europe, with focus on right-wing cancelment and restrictions, featuring surveys, case studies, and statistical graphics.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Sep 2025 19:57:00 GMT</lastBuildDate>
+
+    <!-- ============= STUDIES START ============= -->
+
+    <item>
+      <title>The Free Speech Recession Hits Home (Justitia, 2023)</title>
+      <link>https://freespeech.world/wp-content/uploads/2023/05/Free-Speech-Recession-Report.pdf</link>
+      <guid isPermaLink="true">https://freespeech.world/wp-content/uploads/2023/05/Free-Speech-Recession-Report.pdf</guid>
+      <description>Expert survey across 22 democracies, including Germany, France, UK; bar charts and tables show declining tolerance for controversial speech, with 30% of respondents in Western Europe supporting restrictions on right-leaning views (2015–2022).</description>
+      <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+      <author>Justitia</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>World Press Freedom Index 2023 (RSF)</title>
+      <link>https://rsf.org/sites/default/files/world-press-freedom-index-2023.pdf</link>
+      <guid isPermaLink="true">https://rsf.org/sites/default/files/world-press-freedom-index-2023.pdf</guid>
+      <description>Reporters Without Borders index with maps, line graphs, and country rankings; shows declines in press freedom in Western Europe (e.g., Germany dropped 5 ranks, 2020–2023) due to legal and social pressures.</description>
+      <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+      <author>RSF</author>
+      <category>Press Freedom</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Freedom on the Net 2023 (Freedom House)</title>
+      <link>https://freedomhouse.org/sites/default/files/2023-10/FOTN2023Digital.pdf</link>
+      <guid isPermaLink="true">https://freedomhouse.org/sites/default/files/2023-10/FOTN2023Digital.pdf</guid>
+      <description>Survey of internet freedom in 70 countries, including UK, France, Italy; bar charts and tables show 15% increase in online content removals in Western Europe (2020–2023), often targeting right-wing content.</description>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+      <author>Freedom House</author>
+      <category>Internet Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Free Speech in Europe 2022 (ECPMF)</title>
+      <link>https://www.ecpmf.eu/wp-content/uploads/2022/07/Free-Speech-in-Europe-Report-2022.pdf</link>
+      <guid isPermaLink="true">https://www.ecpmf.eu/wp-content/uploads/2022/07/Free-Speech-in-Europe-Report-2022.pdf</guid>
+      <description>European Centre for Press &amp; Media Freedom report with case studies (e.g., UK journalist suspensions), statistics, and pie charts showing 200+ speech restriction incidents in Europe, some involving right-wing figures.</description>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+      <author>ECPMF</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Media Freedom in Europe 2023 (ECPMF / Council of Europe)</title>
+      <link>https://www.ecpmf.eu/wp-content/uploads/2023/09/Media-Freedom-in-Europe-2023.pdf</link>
+      <guid isPermaLink="true">https://www.ecpmf.eu/wp-content/uploads/2023/09/Media-Freedom-in-Europe-2023.pdf</guid>
+      <description>Annual review with data on 300+ media freedom violations in Europe; includes bar graphs and case studies, e.g., right-wing media outlets facing regulatory penalties in Germany and Netherlands.</description>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+      <author>ECPMF</author>
+      <author>Council of Europe</author>
+      <category>Media Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Free Speech in Europe 2021 (Justitia)</title>
+      <link>https://freespeech.world/wp-content/uploads/2021/09/Free-Speech-Europe-Report-2021.pdf</link>
+      <guid isPermaLink="true">https://freespeech.world/wp-content/uploads/2021/09/Free-Speech-Europe-Report-2021.pdf</guid>
+      <description>Survey of 10,000 Europeans; line graphs show 25% support for censoring controversial speech in France, UK, Germany, with data on right-leaning speech restrictions.</description>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+      <author>Justitia</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>World Trends in Freedom of Expression 2022 (UNESCO)</title>
+      <link>https://unesdoc.unesco.org/ark:/48223/pf0000381357</link>
+      <guid isPermaLink="true">https://unesdoc.unesco.org/ark:/48223/pf0000381357</guid>
+      <description>Global report with EU focus; tables and scatter plots show rising legal restrictions in Western Europe (e.g., Spain, Italy) impacting media and public speech.</description>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+      <author>UNESCO</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Media Freedom in the EU 2023 (European Parliament Research Service)</title>
+      <link>https://www.europarl.europa.eu/RegData/etudes/STUD/2023/739178/EPRS_STU(2023)739178_EN.pdf</link>
+      <guid isPermaLink="true">https://www.europarl.europa.eu/RegData/etudes/STUD/2023/739178/EPRS_STU(2023)739178_EN.pdf</guid>
+      <description>Research paper with statistical annexes; bar charts show 20% increase in media lawsuits in EU states, affecting right-wing outlets in Germany, France.</description>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+      <author>European Parliament</author>
+      <category>Media Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Media Freedom and Pluralism in the EU 2021 (European Parliament)</title>
+      <link>https://www.europarl.europa.eu/RegData/etudes/STUD/2021/694692/IPOL_STU(2021)694692_EN.pdf</link>
+      <guid isPermaLink="true">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/694692/IPOL_STU(2021)694692_EN.pdf</guid>
+      <description>Statistical analysis of EU states; graphs show chilling effects on expression, with case studies of right-wing deplatforming in Netherlands, UK.</description>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 GMT</pubDate>
+      <author>European Parliament</author>
+      <category>Media Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Report on Freedom of Expression in Europe 2021 (Council of Europe)</title>
+      <link>https://rm.coe.int/freedom-of-expression-report-2021-en/1680a3d13a</link>
+      <guid isPermaLink="true">https://rm.coe.int/freedom-of-expression-report-2021-en/1680a3d13a</guid>
+      <description>Metrics and bar graphs on 150+ expression violations in Europe; includes cases of right-wing speaker bans in UK, France.</description>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+      <author>Council of Europe</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>EU Fundamental Rights Report 2023 (EU FRA)</title>
+      <link>https://fra.europa.eu/sites/default/files/fra_uploads/fra-2023-fundamental-rights-report_en.pdf</link>
+      <guid isPermaLink="true">https://fra.europa.eu/sites/default/files/fra_uploads/fra-2023-fundamental-rights-report_en.pdf</guid>
+      <description>Data-driven report with pie charts on free speech; shows 10% rise in content moderation cases in EU, impacting right-wing voices.</description>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+      <author>EU FRA</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>EU Fundamental Rights Report 2022 (EU FRA)</title>
+      <link>https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-fundamental-rights-report_en.pdf</link>
+      <guid isPermaLink="true">https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-fundamental-rights-report_en.pdf</guid>
+      <description>Statistics and line graphs on expression restrictions; documents 100+ cases of censorship in EU, some targeting right-wing content.</description>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+      <author>EU FRA</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>World Press Freedom Index 2022 (RSF)</title>
+      <link>https://rsf.org/sites/default/files/world-press-freedom-index-2022.pdf</link>
+      <guid isPermaLink="true">https://rsf.org/sites/default/files/world-press-freedom-index-2022.pdf</guid>
+      <description>RSF rankings with methodology and bar charts; shows Western Europe’s declining scores (e.g., Netherlands down 3 ranks).</description>
+      <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+      <author>RSF</author>
+      <category>Press Freedom</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Freedom of Expression in the Digital Era (European Parliament, 2020)</title>
+      <link>https://www.europarl.europa.eu/RegData/etudes/STUD/2020/642284/IPOL_STU(2020)642284_EN.pdf</link>
+      <guid isPermaLink="true">https://www.europarl.europa.eu/RegData/etudes/STUD/2020/642284/IPOL_STU(2020)642284_EN.pdf</guid>
+      <description>Research paper with statistical appendices; tables show rising online censorship in EU, including right-wing platforms.</description>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 GMT</pubDate>
+      <author>European Parliament</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Freedom of Expression in the European Union (OSCE, 2020)</title>
+      <link>https://www.osce.org/files/f/documents/3/f/444627.pdf</link>
+      <guid isPermaLink="true">https://www.osce.org/files/f/documents/3/f/444627.pdf</guid>
+      <description>OSCE report with case statistics and tables; documents 50+ speech restriction cases in Western Europe.</description>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
+      <author>OSCE</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Mapping Media Freedom 2020-2022 (Index on Censorship)</title>
+      <link>https://www.indexoncensorship.org/wp-content/uploads/2022/03/Mapping-Media-Freedom-2020-2022.pdf</link>
+      <guid isPermaLink="true">https://www.indexoncensorship.org/wp-content/uploads/2022/03/Mapping-Media-Freedom-2020-2022.pdf</guid>
+      <description>Dataset with line graphs on 400+ censorship incidents in Europe; includes right-wing media bans in Germany, UK.</description>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+      <author>Index on Censorship</author>
+      <category>Media Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>Media Freedom in Europe 2020 (Council of Europe)</title>
+      <link>https://rm.coe.int/annual-report-2020-media-freedom-in-europe/16809f9e63</link>
+      <guid isPermaLink="true">https://rm.coe.int/annual-report-2020-media-freedom-in-europe/16809f9e63</guid>
+      <description>Charts and statistics on 200+ media freedom violations; includes cases of right-wing outlet restrictions in France, Italy.</description>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+      <author>Council of Europe</author>
+      <category>Media Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>World Trends in Freedom of Expression 2021/22 (UNESCO)</title>
+      <link>https://unesdoc.unesco.org/ark:/48223/pf0000376708</link>
+      <guid isPermaLink="true">https://unesdoc.unesco.org/ark:/48223/pf0000376708</guid>
+      <description>Statistical overview with EU focus; bar charts show rising legal penalties in Western Europe affecting speech.</description>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+      <author>UNESCO</author>
+      <category>Free Speech Decline</category>
+      <category>Western Europe</category>
+    </item>
+
+    <item>
+      <title>Academic Freedom Monitor 2022 (Scholars at Risk)</title>
+      <link>https://www.scholarsatrisk.org/wp-content/uploads/2022/06/Free-to-Think-2022.pdf</link>
+      <guid isPermaLink="true">https://www.scholarsatrisk.org/wp-content/uploads/2022/06/Free-to-Think-2022.pdf</guid>
+      <description>Case statistics on 100+ academic freedom violations in Europe; tables show right-wing scholar suspensions in UK, Germany.</description>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+      <author>Scholars at Risk</author>
+      <category>Academic Freedom</category>
+      <category>Western Europe</category>
+      <category>Right-Wing Cancelment</category>
+    </item>
+
+    <item>
+      <title>World Press Freedom Index 2021 (RSF)</title>
+      <link>https://rsf.org/sites/default/files/world-press-freedom-index-2021.pdf</link>
+      <guid isPermaLink="true">https://rsf.org/sites/default/files/world-press-freedom-index-2021.pdf</guid>
+      <description>RSF rankings with bar charts; shows Western Europe’s declining press freedom (e.g., France down 4 ranks).</description>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
+      <author>RSF</author>
+      <category>Press Freedom</category>
+      <category>Western Europe</category>
+    </item>
+
+  
+
+  </channel>
+</rss>
